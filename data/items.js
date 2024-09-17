@@ -1,0 +1,193 @@
+const items = [
+    {
+        "id": 1,
+        item_image:'assets/dress1.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1400,
+        },
+        company_name:'Carlton London',
+        item_name:'White Gown',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 2,
+        item_image:'assets/dress3.jpg',
+        rating:{
+        starts:4.6,
+        noOfReviews:1500,
+        },
+        company_name:'Carlton London',
+        item_name:'White Gown',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 3,
+        item_image:'assets/kids6.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Purple Baby Gown',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 4,
+        item_image:'assets/kids8.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Pink Baby Gown',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 5,
+        item_image:'assets/mens3.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Polo T-Shirt',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 6,
+        item_image:'assets/mens2.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Denim',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 7,
+        item_image:'assets/home8.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Cradle',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 8,
+        item_image:'assets/makeup6.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'BEET Serum',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 9,
+        item_image:'assets/makeup10.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Cream',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 10,
+        item_image:'assets/home9.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:' Flower Bookshelf',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    {
+        "id": 11,
+        item_image:'assets/dress11.jpg',
+        rating:{
+        starts:4.5,
+        noOfReviews:1300,
+        },
+        company_name:'Carlton London',
+        item_name:'Black Top',
+        current_price:606,
+        original_price:1045,
+        discount:42,
+        return_period:15,
+        delivery_date : '10 Oct 2024',
+    },
+
+    // {
+    //     "id": 11,
+    //     item_image:'assets/dress11.jpg',
+    //     rating:{
+    //     starts:4.5,
+    //     noOfReviews:1300,
+    //     },
+    //     company_name:'Carlton London',
+    //     item_name:'Pink Floral Top',
+    //     current_price:1100,
+    //     original_price:900,
+    //     discount:45,
+    //     return_period:15,
+    //     delivery_date : '10 Oct 2024',
+    // },
+]
